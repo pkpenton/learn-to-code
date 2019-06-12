@@ -4,7 +4,7 @@
 
 ### Week 1 instructions:
 
-Create a new directory (folder) in this repo with your name as the name of the directory. Then create two files in that
+Create a new directory (folder) in this repo with your first name as the name of the directory. Then create two files in that
 directory called `first_python.py` and `first_yaml.yaml`. Submit a PR (pull request) with your changes. Note: never
 work on the master branch, always create your own branch!
 
@@ -12,7 +12,7 @@ work on the master branch, always create your own branch!
 1. Get on the master branch
 2. Pull changes
 3. Create a new branch and switch to that branch
-4. Create a directory (folder) with your name as the name of the directory
+4. Create a directory (folder) with your first name as the name of the directory
      - it's a good idea to do a quick `git status` now and see that your directory was created
 5. Move into your newly created directory
 6. Create two files in the directory called `first_python.py` and `first_yaml.yaml`
@@ -27,7 +27,7 @@ work on the master branch, always create your own branch!
 1. Get on the master branch: `git checkout master`
 2. Pull changes: `git pull`
 3. Create a new branch and switch to that branch: `git checkout -b "<your-branch-name>"`
-4. Create a directory (folder) with your name as the name of the directory (hint: `mkdir`)
+4. Create a directory (folder) with your first name as the name of the directory (hint: `mkdir`)
      - it's a good idea to do a quick `git status` now and see that your directory was created
 5. Move into your newly created directory (hint: `cd`)
 6. Create two files in the directory called `first_python.py` and `first_yaml.yaml` (hint: `touch`)
